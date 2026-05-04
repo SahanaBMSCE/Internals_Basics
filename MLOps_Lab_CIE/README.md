@@ -5,7 +5,7 @@
 This project implements a complete **MLOps pipeline** for predicting irrigation hours in smart agriculture systems.
 It covers model training, experiment tracking, hyperparameter tuning, API deployment, and retraining.
 
-The solution is built as part of the **MLOps Lab CIE (VII Semester)**.
+The solution is built as part of the **MLOps Lab CIE (VI Semester)**.
 
 ---
 
