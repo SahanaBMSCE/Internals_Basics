@@ -1,0 +1,13 @@
+{
+    "search_type": "grid",
+    "n_folds": 5,
+    "total_trials": 18,
+    "best_params": {
+        "learning_rate": 0.05,
+        "max_depth": 3,
+        "n_estimators": 100
+    },
+    "best_mae": 1.3150751238510048,
+    "best_cv_mae": 1.853756468979738,
+    "parent_run_name": "tuning-cropsense"
+}
